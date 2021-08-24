@@ -33,6 +33,7 @@ Abellie, Anne, and Robert D. Borsley. "Comparative Correlatives and Parameters."
 - 本仓库语言相关内容遵守 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可
 
 ![许可证](./assets/cc.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh?ref=badge_shield)
 
 引用本仓库请使用下面的内容进行署名:
 
@@ -86,3 +87,7 @@ email 发送到: admin@jieec.cn
 贡献内容
 版权合规及授权声明
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh?ref=badge_large)
