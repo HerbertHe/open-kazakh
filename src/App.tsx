@@ -11,14 +11,14 @@ import Footer from "./components/layout/Footer"
 
 const App: FC = () => (
     <div className="w-full flex flex-col justify-start items-center">
-        <Header />
-        <main className="pt-18 w-full">
-            <Router>
+        <Router>
+            <Header />
+            <main className="pt-18 w-full">
                 <Route path="/" exact component={Home} />
                 <Route path="/about" exact component={About} />
-            </Router>
-        </main>
-        <Footer />
+            </main>
+            <Footer />
+        </Router>
     </div>
 )
 
