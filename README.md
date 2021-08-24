@@ -1,5 +1,7 @@
 # open-kazakh
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh?ref=badge_shield)
+
 Open Kazakh 是开放学习哈萨克语的开源学习资料倡议, 旨在帮助母语为汉语的同学学习并使用哈萨克语, 并使用哈萨克语日常交流。当前学习哈萨克语资料较少, 本仓库为一项开源资料倡议。欢迎有前端技术的同学参与开发贡献, 并且欢迎哈萨克语老师、同学、出版单位和爱好者加入本仓库的贡献!
 
 ## 许可证 & 规范信息
@@ -33,7 +35,6 @@ Abellie, Anne, and Robert D. Borsley. "Comparative Correlatives and Parameters."
 - 本仓库语言相关内容遵守 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可
 
 ![许可证](./assets/cc.png)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh?ref=badge_shield)
 
 引用本仓库请使用下面的内容进行署名:
 
@@ -88,6 +89,4 @@ email 发送到: admin@jieec.cn
 版权合规及授权声明
 ```
 
-
-## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh?ref=badge_large)
