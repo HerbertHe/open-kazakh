@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom"
 // 页面组件
 import Home from "./pages/Home"
 import About from "./pages/About"
+import Contributors from "./pages/Contributors"
 
 // 组件
 import Header from "./components/layout/Header"
@@ -16,6 +17,7 @@ const App: FC = () => (
             <main className="pt-18 w-full <sm:(pt-40)">
                 <Route path="/" exact component={Home} />
                 <Route path="/about" exact component={About} />
+                <Route path="/contributors" exact component={Contributors} />
             </main>
             <Footer />
         </Router>
