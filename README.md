@@ -55,7 +55,7 @@ Abellie, Anne, and Robert D. Borsley. "Comparative Correlatives and Parameters."
 
 1. Fork 本项目到自己的账号中
 2. 更新仓库内容
-3. 更新 [Contributors.md](./Contributors.md) 文件
+3. 更新 [Contributors.md](https://github.com/HerbertHe/open-kazakh/blob/main/Contributors.md) 文件
 4. PR 到本仓库, Git Commit 请遵守格式
 
 文本内容更新:
