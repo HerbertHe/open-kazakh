@@ -31,10 +31,10 @@ Abellie, Anne, and Robert D. Borsley. "Comparative Correlatives and Parameters."
 
 ### 许可证信息
 
-- 本仓库代码遵守 [MIT](./LICENSE) 许可
+- 本仓库代码遵守 [MIT](https://cdn.jsdelivr.net/gh/HerbertHe/open-kazakh@main/LICENSE) 许可
 - 本仓库语言相关内容遵守 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可
 
-![许可证](./assets/cc.png)
+![许可证](https://cdn.jsdelivr.net/gh/HerbertHe/open-kazakh@main/assets/cc.png)
 
 引用本仓库请使用下面的内容进行署名:
 
