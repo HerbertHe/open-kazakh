@@ -7,7 +7,7 @@ export interface INavItem extends INavSubItem {
 }
 
 const NavItem: FC<INavItem> = ({ title, to, children }) => (
-    <div className="px-4 h-full">
+    <div className="px-4 h-full <sm:(my-1)">
         {!!children && children.length !== 0 && (
             <div className="relative hover:(cursor-pointer) group">
                 <div className="w-auto px-3 py-2 block">{title}</div>

@@ -35,7 +35,7 @@ const navs: Array<INavItem> = [
 ]
 
 const Navs: FC = () => (
-    <ul className="flex flex-row justify-start items-center">
+    <ul className="flex flex-row flex-wrap justify-start items-center <sm:(mt-3)">
         {navs.map((item) => (
             <NavItem key={item.to} {...item} />
         ))}

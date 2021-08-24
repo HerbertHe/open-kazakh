@@ -13,7 +13,7 @@ const App: FC = () => (
     <div className="w-full flex flex-col justify-start items-center">
         <Router>
             <Header />
-            <main className="pt-18 w-full">
+            <main className="pt-18 w-full <sm:(pt-40)">
                 <Route path="/" exact component={Home} />
                 <Route path="/about" exact component={About} />
             </main>
