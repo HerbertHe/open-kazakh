@@ -1,0 +1,339 @@
+{
+  "letters": [
+    {
+      "letter": {
+        "uppercase": "А",
+        "lowercase": "а"
+      },
+      "ipa": "/ɑ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ә",
+        "lowercase": "ә"
+      },
+      "ipa": "/æ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Б",
+        "lowercase": "б"
+      },
+      "ipa": "/b/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "В",
+        "lowercase": "в"
+      },
+      "ipa": "/v/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Г",
+        "lowercase": "г"
+      },
+      "ipa": "/ɡ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ғ",
+        "lowercase": "ғ"
+      },
+      "ipa": "/ʁ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Д",
+        "lowercase": "д"
+      },
+      "ipa": "/d/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Е",
+        "lowercase": "е"
+      },
+      "ipa": "/jɪ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ё",
+        "lowercase": "ё"
+      },
+      "ipa": "/jo/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ж",
+        "lowercase": "ж"
+      },
+      "ipa": "/ʑ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "З",
+        "lowercase": "з"
+      },
+      "ipa": "/z/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "И",
+        "lowercase": "и"
+      },
+      "ipa": "/ɪj/, /əj/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Й",
+        "lowercase": "й"
+      },
+      "ipa": "/j/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "К",
+        "lowercase": "к"
+      },
+      "ipa": "/k/",
+      "voice": ""
+    },{
+      "letter": {
+        "uppercase": "Қ",
+        "lowercase": "қ"
+      },
+      "ipa": "/q/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Л",
+        "lowercase": "л"
+      },
+      "ipa": "/l/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "М",
+        "lowercase": "м"
+      },
+      "ipa": "/m/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Н",
+        "lowercase": "н"
+      },
+      "ipa": "/n/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ң",
+        "lowercase": "ң"
+      },
+      "ipa": "/ŋ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "О",
+        "lowercase": "о"
+      },
+      "ipa": "/wʊ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ө",
+        "lowercase": "ө"
+      },
+      "ipa": "/wʏ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "П",
+        "lowercase": "п"
+      },
+      "ipa": "/p/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Р",
+        "lowercase": "р"
+      },
+      "ipa": "/ɾ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "С",
+        "lowercase": "с"
+      },
+      "ipa": "/s/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Т",
+        "lowercase": "т"
+      },
+      "ipa": "/t/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "У",
+        "lowercase": "у"
+      },
+      "ipa": "/w/, /ʊw/, /ʏw/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ұ",
+        "lowercase": "ұ"
+      },
+      "ipa": "/ʊ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ү",
+        "lowercase": "ү"
+      },
+      "ipa": "/ʏ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ф",
+        "lowercase": "ф"
+      },
+      "ipa": "/f/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Х",
+        "lowercase": "х"
+      },
+      "ipa": "/q/, /χ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Һ",
+        "lowercase": "һ"
+      },
+      "ipa": "/h/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ц",
+        "lowercase": "ц"
+      },
+      "ipa": "/ts/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ч",
+        "lowercase": "ч"
+      },
+      "ipa": "/tɕ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ш",
+        "lowercase": "ш"
+      },
+      "ipa": "/ɕ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Щ",
+        "lowercase": "щ"
+      },
+      "ipa": "/ɕtɕ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ъ",
+        "lowercase": "ъ"
+      },
+      "ipa": "--",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ы",
+        "lowercase": "ы"
+      },
+      "ipa": "/ə/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "І",
+        "lowercase": "і"
+      },
+      "ipa": "/ɪ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ь",
+        "lowercase": "ь"
+      },
+      "ipa": "--",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Э",
+        "lowercase": "э"
+      },
+      "ipa": "/ɛ/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Ю",
+        "lowercase": "ю"
+      },
+      "ipa": "/jʉw/, /jʊw/",
+      "voice": ""
+    },
+    {
+      "letter": {
+        "uppercase": "Я",
+        "lowercase": "я"
+      },
+      "ipa": "/jɑ, jæ/",
+      "voice": ""
+    }
+  ]
+}
