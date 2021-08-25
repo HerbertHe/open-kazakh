@@ -1,10 +1,6 @@
 import React, { FC } from "react"
 import NavItem, { INavItem } from "./NavItem"
 
-// export interface INavsprops {
-//     navs: Array<INavItem>
-// }
-
 const navs: Array<INavItem> = [
     {
         title: "首页",
@@ -21,6 +17,16 @@ const navs: Array<INavItem> = [
             {
                 title: "西里尔字母",
                 to: "/alphabet/cyrillic"
+            }
+        ]
+    },
+    {
+        title: "Roadmap",
+        to: "",
+        children: [
+            {
+                title: "学习视频",
+                to: "/roadmap/video"
             }
         ]
     },
