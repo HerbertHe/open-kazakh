@@ -5,6 +5,7 @@
         "uppercase": "А",
         "lowercase": "а"
       },
+      "arabic": "ا",
       "ipa": "/ɑ/",
       "voice": ""
     },
@@ -13,6 +14,7 @@
         "uppercase": "Ә",
         "lowercase": "ә"
       },
+      "arabic": "ٴا",
       "ipa": "/æ/",
       "voice": ""
     },
@@ -21,6 +23,7 @@
         "uppercase": "Б",
         "lowercase": "б"
       },
+      "arabic": "ب",
       "ipa": "/b/",
       "voice": ""
     },
@@ -29,6 +32,7 @@
         "uppercase": "В",
         "lowercase": "в"
       },
+      "arabic": "ۆ",
       "ipa": "/v/",
       "voice": ""
     },
@@ -37,6 +41,7 @@
         "uppercase": "Г",
         "lowercase": "г"
       },
+      "arabic": "گ",
       "ipa": "/ɡ/",
       "voice": ""
     },
@@ -45,6 +50,7 @@
         "uppercase": "Ғ",
         "lowercase": "ғ"
       },
+      "arabic": "ع",
       "ipa": "/ʁ/",
       "voice": ""
     },
@@ -53,6 +59,7 @@
         "uppercase": "Д",
         "lowercase": "д"
       },
+      "arabic": "د",
       "ipa": "/d/",
       "voice": ""
     },
@@ -61,6 +68,7 @@
         "uppercase": "Е",
         "lowercase": "е"
       },
+      "arabic": "ە",
       "ipa": "/jɪ/",
       "voice": ""
     },
@@ -69,6 +77,7 @@
         "uppercase": "Ё",
         "lowercase": "ё"
       },
+      "arabic": "",
       "ipa": "/jo/",
       "voice": ""
     },
@@ -77,6 +86,7 @@
         "uppercase": "Ж",
         "lowercase": "ж"
       },
+      "arabic": "ج",
       "ipa": "/ʑ/",
       "voice": ""
     },
@@ -85,6 +95,7 @@
         "uppercase": "З",
         "lowercase": "з"
       },
+      "arabic": "ش",
       "ipa": "/z/",
       "voice": ""
     },
@@ -93,6 +104,7 @@
         "uppercase": "И",
         "lowercase": "и"
       },
+      "arabic": "",
       "ipa": "/ɪj/, /əj/",
       "voice": ""
     },
@@ -101,6 +113,7 @@
         "uppercase": "Й",
         "lowercase": "й"
       },
+      "arabic": "ي",
       "ipa": "/j/",
       "voice": ""
     },
@@ -109,6 +122,7 @@
         "uppercase": "К",
         "lowercase": "к"
       },
+      "arabic": "ك",
       "ipa": "/k/",
       "voice": ""
     },{
@@ -116,6 +130,7 @@
         "uppercase": "Қ",
         "lowercase": "қ"
       },
+      "arabic": "ق",
       "ipa": "/q/",
       "voice": ""
     },
@@ -124,6 +139,7 @@
         "uppercase": "Л",
         "lowercase": "л"
       },
+      "arabic": "ل",
       "ipa": "/l/",
       "voice": ""
     },
@@ -132,6 +148,7 @@
         "uppercase": "М",
         "lowercase": "м"
       },
+      "arabic": "م",
       "ipa": "/m/",
       "voice": ""
     },
@@ -140,6 +157,7 @@
         "uppercase": "Н",
         "lowercase": "н"
       },
+      "arabic": "ن",
       "ipa": "/n/",
       "voice": ""
     },
@@ -148,6 +166,7 @@
         "uppercase": "Ң",
         "lowercase": "ң"
       },
+      "arabic": "ڭ",
       "ipa": "/ŋ/",
       "voice": ""
     },
@@ -156,6 +175,7 @@
         "uppercase": "О",
         "lowercase": "о"
       },
+      "arabic": "و",
       "ipa": "/wʊ/",
       "voice": ""
     },
@@ -164,6 +184,7 @@
         "uppercase": "Ө",
         "lowercase": "ө"
       },
+      "arabic": "ٶ",
       "ipa": "/wʏ/",
       "voice": ""
     },
@@ -172,6 +193,7 @@
         "uppercase": "П",
         "lowercase": "п"
       },
+      "arabic": "پ",
       "ipa": "/p/",
       "voice": ""
     },
@@ -180,6 +202,7 @@
         "uppercase": "Р",
         "lowercase": "р"
       },
+      "arabic": "ر",
       "ipa": "/ɾ/",
       "voice": ""
     },
@@ -188,6 +211,7 @@
         "uppercase": "С",
         "lowercase": "с"
       },
+      "arabic": "س",
       "ipa": "/s/",
       "voice": ""
     },
@@ -196,6 +220,7 @@
         "uppercase": "Т",
         "lowercase": "т"
       },
+      "arabic": "ت",
       "ipa": "/t/",
       "voice": ""
     },
@@ -204,6 +229,7 @@
         "uppercase": "У",
         "lowercase": "у"
       },
+      "arabic": "ۋ",
       "ipa": "/w/, /ʊw/, /ʏw/",
       "voice": ""
     },
@@ -212,6 +238,7 @@
         "uppercase": "Ұ",
         "lowercase": "ұ"
       },
+      "arabic": "ۇ",
       "ipa": "/ʊ/",
       "voice": ""
     },
@@ -220,6 +247,7 @@
         "uppercase": "Ү",
         "lowercase": "ү"
       },
+      "arabic": "ٷ",
       "ipa": "/ʏ/",
       "voice": ""
     },
@@ -228,6 +256,7 @@
         "uppercase": "Ф",
         "lowercase": "ф"
       },
+      "arabic": "ف",
       "ipa": "/f/",
       "voice": ""
     },
@@ -236,6 +265,7 @@
         "uppercase": "Х",
         "lowercase": "х"
       },
+      "arabic": "ح",
       "ipa": "/q/, /χ/",
       "voice": ""
     },
@@ -244,6 +274,7 @@
         "uppercase": "Һ",
         "lowercase": "һ"
       },
+      "arabic": "ھ",
       "ipa": "/h/",
       "voice": ""
     },
@@ -252,6 +283,7 @@
         "uppercase": "Ц",
         "lowercase": "ц"
       },
+      "arabic": "چ",
       "ipa": "/ts/",
       "voice": ""
     },
@@ -260,6 +292,7 @@
         "uppercase": "Ч",
         "lowercase": "ч"
       },
+      "arabic": "",
       "ipa": "/tɕ/",
       "voice": ""
     },
@@ -268,6 +301,7 @@
         "uppercase": "Ш",
         "lowercase": "ш"
       },
+      "arabic": "ش",
       "ipa": "/ɕ/",
       "voice": ""
     },
@@ -276,6 +310,7 @@
         "uppercase": "Щ",
         "lowercase": "щ"
       },
+      "arabic": "",
       "ipa": "/ɕtɕ/",
       "voice": ""
     },
@@ -284,6 +319,7 @@
         "uppercase": "Ъ",
         "lowercase": "ъ"
       },
+      "arabic": "",
       "ipa": "--",
       "voice": ""
     },
@@ -292,6 +328,7 @@
         "uppercase": "Ы",
         "lowercase": "ы"
       },
+      "arabic": "ى",
       "ipa": "/ə/",
       "voice": ""
     },
@@ -300,6 +337,7 @@
         "uppercase": "І",
         "lowercase": "і"
       },
+      "arabic": "ٴى",
       "ipa": "/ɪ/",
       "voice": ""
     },
@@ -308,6 +346,7 @@
         "uppercase": "Ь",
         "lowercase": "ь"
       },
+      "arabic": "",
       "ipa": "--",
       "voice": ""
     },
@@ -316,6 +355,7 @@
         "uppercase": "Э",
         "lowercase": "э"
       },
+      "arabic": "",
       "ipa": "/ɛ/",
       "voice": ""
     },
@@ -324,6 +364,7 @@
         "uppercase": "Ю",
         "lowercase": "ю"
       },
+      "arabic": "",
       "ipa": "/jʉw/, /jʊw/",
       "voice": ""
     },
@@ -332,6 +373,7 @@
         "uppercase": "Я",
         "lowercase": "я"
       },
+      "arabic": "",
       "ipa": "/jɑ, jæ/",
       "voice": ""
     }
