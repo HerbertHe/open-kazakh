@@ -17,7 +17,7 @@ const App: FC = () => (
     <div className="w-full flex flex-col justify-start items-center">
         <Router>
             <Header />
-            <main className="pt-20 w-full <lg:(pt-50)">
+            <main className="pt-20 w-full <sm:(pt-50)">
                 <Route path="/" exact component={Home} />
                 <Route path="/about" exact component={About} />
                 <Route path="/contributors" exact component={Contributors} />
