@@ -6,11 +6,11 @@
 
 - 惒泊 (Herbert He) <https://github.com/HerbertHe>
 
-    整站的搭建和项目管理
+> 整站的搭建和项目管理
 
 - 学哈语的小迟同学 <https://space.bilibili.com/431339250>
 
-    哈语学习内容提供、内容校阅
+> 哈语学习内容提供、内容校阅
 
 ## 项目服务商
 
