@@ -8,6 +8,7 @@ import Contributors from "./pages/Contributors"
 import AlphabetOld from "./pages/alphabet/AlphabetOld"
 import AlphabetCyrillic from "./pages/alphabet/AlphabetCyrillic"
 // import RoadmapVideo from "./pages/roadmap/Video"
+import RoadmapIPA from "./pages/roadmap/IPA"
 
 // 组件
 import Header from "./components/layout/Header"
@@ -28,6 +29,7 @@ const App: FC = () => (
                     component={AlphabetCyrillic}
                 />
                 {/* <Route path="/roadmap/video" exact component={RoadmapVideo} /> */}
+                <Route path="/roadmap/ipa" exact component={RoadmapIPA} />
             </main>
             <Footer />
         </Router>

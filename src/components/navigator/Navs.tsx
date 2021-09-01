@@ -25,6 +25,10 @@ const navs: Array<INavItem> = [
         to: "",
         children: [
             {
+                title: "国际音标 IPA",
+                to: "/roadmap/ipa"
+            },
+            {
                 title: "学习视频",
                 to: "/roadmap/video"
             }
