@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react"
-import Letters from "../../../assets/alphabet/Letters.json"
+import Letters from "../../../public/assets/alphabet/Letters.json"
 
 import Alphabet, { IAlphabet } from "../../components/alphabet/Alphabet"
 

@@ -34,7 +34,7 @@ Abellie, Anne, and Robert D. Borsley. "Comparative Correlatives and Parameters."
 - 本仓库代码遵守 [MIT](https://cdn.jsdelivr.net/gh/HerbertHe/open-kazakh@main/LICENSE) 许可
 - 本仓库语言相关内容遵守 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可
 
-![许可证](https://cdn.jsdelivr.net/gh/HerbertHe/open-kazakh@main/assets/cc.png)
+![许可证](https://cdn.jsdelivr.net/gh/HerbertHe/open-kazakh@main/public/assets/cc.png)
 
 引用本仓库请使用下面的内容进行署名:
 
@@ -90,3 +90,5 @@ email 发送到: admin@jieec.cn
 ```
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHerbertHe%2Fopen-kazakh?ref=badge_large)
+
+本项目由 <img src="https://cdn.jsdelivr.net/gh/HerbertHe/open-kazakh@main/public/assets/又拍云_logo5.png" width="65" /> 提供 CDN加速/云存储服务
