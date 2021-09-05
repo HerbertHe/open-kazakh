@@ -12,8 +12,7 @@ const AlphabetOld = () => {
         <div className="px-20 <sm:px-5 mt-5">
             <div className="font-bold text-2xl">老文字表</div>
             <div className="my-4 text-lg font-thin">
-                字母表参照中国境内的哈萨克语字母列表, 由 @学哈语的小迟同学
-                提供~
+                字母表参照中国境内的哈萨克语字母列表, 由 @学哈语的小迟同学 提供~
             </div>
             <Alphabet type="old" letters={olds} />
         </div>

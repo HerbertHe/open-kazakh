@@ -47,7 +47,7 @@ const Alphabet: FC<IAlphabetProps> = ({ type, letters }) => (
                             </div>
                         )}
                         {type === "old" && (
-                            <div className="text-35px mr-2 text-cyan-700 font-bold my-3">
+                            <div className="text-35px mr-2 text-cyan-700 font-bold my-3 kazakh-font">
                                 {item.arabic}
                             </div>
                         )}
