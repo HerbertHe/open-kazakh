@@ -13,6 +13,7 @@ import RoadmapIPA from "./pages/roadmap/IPA"
 // 组件
 import Header from "./components/layout/Header"
 import Footer from "./components/layout/Footer"
+import RoadmapEcology from "./pages/roadmap/Ecology"
 
 const App: FC = () => (
     <div className="w-full flex flex-col justify-start items-center">
@@ -30,6 +31,11 @@ const App: FC = () => (
                 />
                 <Route path="/roadmap/video" exact component={RoadmapVideo} />
                 <Route path="/roadmap/ipa" exact component={RoadmapIPA} />
+                <Route
+                    path="/roadmap/ecology"
+                    exact
+                    component={RoadmapEcology}
+                />
             </main>
             <Footer />
         </Router>

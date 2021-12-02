@@ -31,6 +31,10 @@ const navs: Array<INavItem> = [
             {
                 title: "学习视频",
                 to: "/roadmap/video"
+            },
+            {
+                title: "学习生态",
+                to: "/roadmap/ecology"
             }
         ]
     },
