@@ -24,14 +24,14 @@ const navs: Array<INavItem> = [
         title: "Roadmap",
         to: "",
         children: [
-            {
-                title: "国际音标 IPA",
-                to: "/roadmap/ipa"
-            },
-            {
-                title: "学习视频",
-                to: "/roadmap/video"
-            },
+            // {
+            //     title: "国际音标 IPA",
+            //     to: "/roadmap/ipa"
+            // },
+            // {
+            //     title: "学习视频",
+            //     to: "/roadmap/video"
+            // },
             {
                 title: "学习生态",
                 to: "/roadmap/ecology"
@@ -39,19 +39,51 @@ const navs: Array<INavItem> = [
         ]
     },
     {
-        title: "贡献者",
-        to: "/contributors"
+        title: "哈拼 Hapin",
+        to: "",
+        children: [
+            {
+                title: "哈拼简介",
+                to: "/hapin/index"
+            },
+            {
+                title: "研究背景",
+                to: "/hapin/background"
+            },
+            {
+                title: "输入方案",
+                to: "/hapin/schema"
+            },
+            {
+                title: "输入法支持",
+                to: "/hapin/ime"
+            },
+            {
+                title: "哈拼里程碑",
+                to: "/hapin/milestone"
+            }
+        ]
     },
     {
-        title: "GitHub",
-        to: "https://github.com/HerbertHe/open-kazakh"
+        title: "开放生态",
+        to: "",
+        children: [
+            {
+                title: "贡献者",
+                to: "/contributors"
+            },
+            {
+                title: "GitHub",
+                to: "https://github.com/HerbertHe/open-kazakh"
+            }
+        ]
     }
 ]
 
 const Navs: FC = () => (
     <ul className="flex flex-row flex-wrap justify-start items-center <sm:(mt-3)">
         {navs.map((item) => (
-            <NavItem key={item.to} {...item} />
+            <NavItem key={item.title} {...item} />
         ))}
     </ul>
 )

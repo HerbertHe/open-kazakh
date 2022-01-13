@@ -9,11 +9,17 @@ import AlphabetOld from "./pages/alphabet/AlphabetOld"
 import AlphabetCyrillic from "./pages/alphabet/AlphabetCyrillic"
 import RoadmapVideo from "./pages/roadmap/Video"
 import RoadmapIPA from "./pages/roadmap/IPA"
+import RoadmapEcology from "./pages/roadmap/Ecology"
+
+import HapinIndex from "./pages/hapin/Index"
+import HapinBackground from "./pages/hapin/Background"
+import HapinSchema from "./pages/hapin/Schema"
+import HapinIME from "./pages/hapin/IME"
+import HapinMilestone from "./pages/hapin/Milestone"
 
 // 组件
 import Header from "./components/layout/Header"
 import Footer from "./components/layout/Footer"
-import RoadmapEcology from "./pages/roadmap/Ecology"
 
 const App: FC = () => (
     <div className="w-full flex flex-col justify-start items-center">
@@ -35,6 +41,20 @@ const App: FC = () => (
                     path="/roadmap/ecology"
                     exact
                     component={RoadmapEcology}
+                />
+
+                <Route path="/hapin/index" exact component={HapinIndex} />
+                <Route
+                    path="/hapin/background"
+                    exact
+                    component={HapinBackground}
+                />
+                <Route path="/hapin/schema" exact component={HapinSchema} />
+                <Route path="/hapin/ime" exact component={HapinIME} />
+                <Route
+                    path="/hapin/milestone"
+                    exact
+                    component={HapinMilestone}
                 />
             </main>
             <Footer />
