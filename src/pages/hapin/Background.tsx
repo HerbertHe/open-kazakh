@@ -1,14 +1,13 @@
 import React, { useEffect, useState } from "react"
 import { VditorPreview } from "react-vditor"
+import { getHapinDetailURL } from "../../utils/constants"
 
 const Background = () => {
     const [readme, setReadme] = useState("")
 
     useEffect(() => {
         ;(async () => {
-            const res = await fetch(
-                "https://cdn.jsdelivr.net/gh/HerbertHe/rime-kz-experiment@main/docs/background.md"
-            )
+            const res = await fetch(getHapinDetailURL(`/docs/background.md`))
             const text = await res.text()
             setReadme(text)
         })()
