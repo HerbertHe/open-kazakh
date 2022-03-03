@@ -53,6 +53,9 @@ const navs: Array<INavItem> = [
             {
                 title: "输入方案",
                 to: "/hapin/schema"
+            }, {
+                title: "在线转化",
+                to: "/hapin/repl"
             },
             {
                 title: "输入法支持",

@@ -16,6 +16,7 @@ import HapinBackground from "./pages/hapin/Background"
 import HapinSchema from "./pages/hapin/Schema"
 import HapinIME from "./pages/hapin/IME"
 import HapinMilestone from "./pages/hapin/Milestone"
+import HapinREPL from "./pages/hapin/REPL"
 
 // 组件
 import Header from "./components/layout/Header"
@@ -51,6 +52,7 @@ const App: FC = () => (
                 />
                 <Route path="/hapin/schema" exact component={HapinSchema} />
                 <Route path="/hapin/ime" exact component={HapinIME} />
+                <Route path="/hapin/repl" exact component={HapinREPL} />
                 <Route
                     path="/hapin/milestone"
                     exact
