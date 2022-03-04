@@ -283,7 +283,7 @@
         "uppercase": "Ц",
         "lowercase": "ц"
       },
-      "arabic": "چ",
+      "arabic": "",
       "ipa": "/ts/",
       "voice": ""
     },
@@ -292,7 +292,7 @@
         "uppercase": "Ч",
         "lowercase": "ч"
       },
-      "arabic": "",
+      "arabic": "چ",
       "ipa": "/tɕ/",
       "voice": ""
     },
