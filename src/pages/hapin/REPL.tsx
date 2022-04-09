@@ -1,5 +1,5 @@
-import React, { useRef, useState } from "react"
-import { transformToArabic, transformToHapin } from "hapin-utils"
+import React, { useState } from "react"
+import { transformHapinToArabic, transformArabicToHapin } from "hapin-utils"
 
 const REPL = () => {
     const [easy, setEasy] = useState(false)
@@ -14,9 +14,9 @@ const REPL = () => {
         ) as HTMLTextAreaElement
 
         if (dir === "hapin") {
-            hapinDOM.value = transformToHapin(arabicDOM.value, easy)
+            hapinDOM.value = transformArabicToHapin(arabicDOM.value, easy)
         } else {
-            arabicDOM.value = transformToArabic(hapinDOM.value)
+            arabicDOM.value = transformHapinToArabic(hapinDOM.value)
         }
     }
 
