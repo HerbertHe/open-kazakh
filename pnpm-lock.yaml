@@ -5,7 +5,7 @@ specifiers:
   '@types/react-dom': ^17.0.11
   '@types/react-router-dom': ^5.3.2
   '@vitejs/plugin-react-refresh': ^1.3.6
-  hapin-utils: ^2.0.2
+  hapin-utils: ^2.1.0
   less: ^4.1.2
   react: ^17.0.2
   react-dom: ^17.0.2
@@ -19,7 +19,7 @@ specifiers:
 
 dependencies:
   '@types/react-router-dom': 5.3.2
-  hapin-utils: 2.0.2
+  hapin-utils: 2.1.0
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
   react-router-dom: 5.3.0_react@17.0.2
@@ -634,8 +634,8 @@ packages:
     dev: true
     optional: true
 
-  /hapin-utils/2.0.2:
-    resolution: {integrity: sha512-6QP/JKwhXWqzu+lDnHxYQ++Nz+2x8XyxaWHInqsjrrv6dxGADekmt4Tcg0m3NkWo1GSaJfubBMe06GgskRivrg==}
+  /hapin-utils/2.1.0:
+    resolution: {integrity: sha512-vy0GloUJS0pJrhi4NbsyTdJXA90EEIkBK/dKVHT22guatqqGqLxR6PJTX/MGIAHTjnoOtvegUHmUqk7kLXriXQ==}
     dev: false
 
   /history/4.10.1:
